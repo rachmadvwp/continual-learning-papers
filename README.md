@@ -564,6 +564,7 @@ In this section we collect all the papers introducing a continual learning strat
 
 In this section we collect all the main review papers and books on continual learning and related subjects. These may constitute a solid starting point for continual learning newcomers.
 
+- [Continual Learning with Neuromorphic Computing: Theories, Methods, and Applications](https://arxiv.org/abs/2410.09218) by Mishal fatima Minhas, Rachmad Vidya Wicaksana Putra, Falah Awwad, Osman Hasan, Muhammad Shafique and Céline Hudelot. *arXiv*, 2024.
 - [A Comparative Study of Calibration Methods for Imbalanced Class Incremental Learning](https://arxiv.org/abs/2202.00386) by Umang Aggarwal, Adrian Popescu, Eden Belouadah and Céline Hudelot. *arXiv*, 2022. 
 - [How to Reuse and Compose Knowledge for a Lifetime of Tasks: A Survey on Continual Learning and Functional Composition](http://arxiv.org/abs/2207.07730) by Jorge A. Mendez and Eric Eaton. , 2022. 
 - [A Comprehensive Study of Class Incremental Learning Algorithms for Visual Tasks](https://doi.org/10.1016/j.neunet.2020.12.003) by Eden Belouadah, Adrian Popescu and Ioannis Kanellos. *Neural Networks*, 38--54, 2021. 
